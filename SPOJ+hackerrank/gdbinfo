@@ -1,0 +1,6 @@
+gdb requires special privileges to access Mach ports.
+You will need to codesign the binary. For instructions, see:
+
+  http://sourceware.org/gdb/wiki/BuildingOnDarwin
+==> Summary
+🍺  /usr/local/Cellar/gdb/7.8.2: 42 files, 5.7M
